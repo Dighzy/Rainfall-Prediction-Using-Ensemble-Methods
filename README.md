@@ -68,7 +68,7 @@ As an ML expert at The Daily Buzz, you are given the task to create a ML model t
      the random forest component reduces overfitting and improves generalization by averaging multiple decision trees. Meanwhile, the XGBoost boosting aspect incrementally enhances the model, making it more accurate in capturing complex patterns in the data. This deep search for optimal hyperparameters ensured that the model was fine-tuned to provide precise and reliable predictions
 
 5. **What steps can you take to improve this selected model’s performance even further?**
-   -To improve the performance of all models i can do feature engineering by creating new or transforming existing features, handle imbalanced data , apply cross-validation to ensure robust generalization, use regularization techniques to prevent overfitting, combine predictions from multiple models with ensemble methods, and perform hyperparameter tuning using Grid Search or Random Search to find the best parameters.
+   - To improve the performance of all models i can do feature engineering by creating new or transforming existing features, handle imbalanced data , apply cross-validation to ensure robust generalization, use regularization techniques to prevent overfitting, combine predictions from multiple models with ensemble methods, and perform hyperparameter tuning using Grid Search or Random Search to find the best parameters.
 
 And then after that i will get the model that performs better , and with that model i will do a deep search.
 
